@@ -1,2 +1,2 @@
-# LITA-PROJECT
-This is where i'd like to document my first project while learning Data Analysis with the Incubator Hub
+# MY-JOURNEY-WITH-LITA
+This is where I documented my first project while learning Data Analysis with the Incubator Hub
